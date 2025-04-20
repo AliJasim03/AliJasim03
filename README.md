@@ -88,9 +88,20 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliJasim03&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AliJasim03&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=1&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=AliJasim03&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AliJasim03&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AliJasim03&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="180" alt="languages graph"  />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AliJasim03&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" height="170" alt="streak graph"  />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AliJasim03&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="github trophies" />
 </div>
 
 
